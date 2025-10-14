@@ -1,0 +1,16 @@
+[project]
+name = "project-13"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Kolesnikova Anastasia",email = "nastya_kol@mail.ru"}
+]
+readme = "README.md"
+requires-python = ">=2.7"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
